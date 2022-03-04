@@ -10,3 +10,4 @@ with user and group IDs displayed numerically
 And hidden files (starting with .)
 mkdir script that creates a directory named my_first_directory in the /tmp/ directory
 mv /tmp/betty /tmp/my_first_directory/betty Moves the file betty from /tmp/ to /tmp/my_first_directory
+rm betty Delete the file betty
