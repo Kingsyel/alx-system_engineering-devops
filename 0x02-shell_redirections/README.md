@@ -3,3 +3,4 @@
  create mode 100755 0x02-shell_redirections/9-duplicate_last_line
 rm
 12-newest_files
+uniq
